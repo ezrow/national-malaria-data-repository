@@ -24,7 +24,7 @@ The **NMDR Guidance Document** provides countries with a practical roadmap to es
 | **Readiness & Self-Assessment Tools Tools** |
 | **National Data Storage Assessment Tool** [Download](https://github.com/WorldHealthOrganization/national-malaria-data-repository/raw/main/Annex/Readiness/National_Data_Storage_Assessment_Tool.xlsx)| The National Data Storage Assessment Tool self-assessment tool for pre-NMDR settings to define scope and feasibility |
 | **National Data Repository Self-Assessment Tool** [Download](https://github.com/WorldHealthOrganization/national-malaria-data-repository/raw/main/Annex/Readiness/National_Data_Repository_Self_Assessment_Tool.xlsx)| For existing NMDRs to evaluate performance, identify gaps and guide targeted improvement |
-| **NMDR Module List** [Download](https://raw.githubusercontent.com/ezrow/nmdr-guidance/main/Annex/xxx.xlsx)| Comprehensive listing of thematic modules, including routine and non-routine components. |
+| **NMDR Module List** [Download](https://github.com/WorldHealthOrganization/national-malaria-data-repository/raw/main/Annex/List_of_NMDR_Modules.xlsx)| Comprehensive listing of thematic modules, including routine and non-routine components. |
 
 ---
 
