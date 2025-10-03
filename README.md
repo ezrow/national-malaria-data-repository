@@ -22,8 +22,8 @@ The **NMDR Guidance Document** provides countries with a practical roadmap to es
 | **Master Malaria Integrated Data_Repository** [Download](https://github.com/WorldHealthOrganization/national-malaria-data-repository/raw/main/Annex/NMDR_Indicator_List.xlsx)| Standardized metadata elements, indicators, disaggregations, and option sets across malaria program areas. |
 | **Establishing an NMDR-example templates** [Download](https://github.com/WorldHealthOrganization/national-malaria-data-repository/raw/main/Annex/Establishing_an_NMDR_example_templates.xlsx)| Costed Budget and Workplan Templates Editable workplan templates with cost bands, estimated days, and resource mapping. |
 | **Readiness & Self-Assessment Tools Tools** |
-| **National Data Storage Assessment Tool** [Download](https://github.com/WorldHealthOrganization/national-malaria-data-repository/raw/main/Annex/Readiness/National_Data_Storage_Assessment_Tool.xlsx)| To assess governance, data quality, infrastructure, and readiness for NMDR implementation. |
-| **National Data Repository Self-Assessment Tool** [Download](https://github.com/WorldHealthOrganization/national-malaria-data-repository/raw/main/Annex/Readiness/National_Data_Repository_Self_Assessment_Tool.xlsx)| To assess governance, data quality, infrastructure, and readiness for NMDR implementation. |
+| **National Data Storage Assessment Tool** [Download](https://github.com/WorldHealthOrganization/national-malaria-data-repository/raw/main/Annex/Readiness/National_Data_Storage_Assessment_Tool.xlsx)| The National Data Storage Assessment Tool self-assessment tool for pre-NMDR settings to define scope and feasibility |
+| **National Data Repository Self-Assessment Tool** [Download](https://github.com/WorldHealthOrganization/national-malaria-data-repository/raw/main/Annex/Readiness/National_Data_Repository_Self_Assessment_Tool.xlsx)| For existing NMDRs to evaluate performance, identify gaps and guide targeted improvement |
 | **NMDR Module List** [Download](https://raw.githubusercontent.com/ezrow/nmdr-guidance/main/Annex/xxx.xlsx)| Comprehensive listing of thematic modules, including routine and non-routine components. |
 
 ---
